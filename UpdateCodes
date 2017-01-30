@@ -1,5 +1,7 @@
 # kali-Linux-source.list
 Source.list
+ # # # #
 apt-get update
 apt-get upgrade
 apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y
+ #END # #
