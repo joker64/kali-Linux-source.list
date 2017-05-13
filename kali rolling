@@ -1,5 +1,3 @@
-# kali-Linux-source.list
-Source.list
 #The kali Rolling Repository
 deb http://repo.kali.org/kali kali-rolling main contrib non-free
 deb-src http://repo.kali.org/kali kali-rolling main contrib non-free
