@@ -1,7 +1,8 @@
-# kali-Linux-source.list
-Source.list
- # # # #
+// Created by JOKER64 / lastman985@yahoo.com 
+//
+// Codes to help you the Update My Kali rolling Source list 
 apt-get update
+// 
 apt-get upgrade
+//
 apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y
- #END # #
